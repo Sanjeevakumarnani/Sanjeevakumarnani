@@ -1,39 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SUGURU%20SANJEEVA%20KUMAR&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20SHIP%20%E2%80%A2%20LEARN&descAlignY=62&descSize=18&animation=fadeIn&color=0:020617,45:1D4ED8,100:06B6D4" width="100%" alt="Header">
+<img src="./assets/developer-system.svg" width="100%" alt="Suguru Sanjeeva Kumar developer system">
 
-<a href="https://sanjeevakumarnani.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=67e8f9" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/sanjeevakumarnani/"><img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn"></a>
-<a href="mailto:ssksanjeevakumar198@gmail.com"><img src="https://img.shields.io/badge/CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email"></a>
+<br>
+
+<a href="https://sanjeevakumarnani.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/sanjeevakumarnani/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"></a>
+<a href="mailto:ssksanjeevakumar198@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"></a>
+<a href="https://github.com/Sanjeevakumarnani"><img src="https://img.shields.io/github/followers/Sanjeevakumarnani?label=FOLLOW&style=for-the-badge&color=0B1220&logo=github" alt="GitHub followers"></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI+Builder;Android+Developer;Hackathon+Developer;Building+software+for+real-world+problems." alt="Typing introduction">
-
-<br><br>
-
-> <b>I don't just learn technologies. I turn them into working products.</b>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=650&color=38BDF8&center=true&vCenter=true&width=850&lines=FULL-STACK+DEVELOPER;AI+SYSTEM+BUILDER;BACKEND+%26+API+ENGINEER;ANDROID+DEVELOPER;HACKATHON+BUILDER;TURNING+REAL+PROBLEMS+INTO+SOFTWARE." alt="Developer roles">
 
 </div>
 
 ---
 
-## About Me
+# `./identity`
 
-I am a Computer Science & Engineering student who enjoys turning difficult ideas into working software.
+> **I build software around problems worth solving.**
 
-- Building full-stack web applications and backend systems
-- Exploring AI-assisted products and persistent memory systems
-- Developing native Android applications with Kotlin
-- Working with APIs, databases, Docker and cloud deployment
-- Building and presenting practical prototypes through hackathons
-- Improving projects through documentation, testing and real engineering workflows
+Computer Science & Engineering student focused on turning ideas into deployable products across web, backend, AI-assisted systems and Android.
 
-> **Build useful things. Validate early. Document clearly.**
+```text
+PROBLEM
+   ↓
+UNDERSTAND
+   ↓
+DESIGN
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+DEPLOY
+   ↓
+ITERATE
+```
+
+**Current engineering interests**
+
+- Product-focused full-stack development
+- AI-assisted applications and persistent memory systems
+- Backend architecture, APIs and databases
+- Native Android with Kotlin
+- Docker, CI/CD and cloud deployment
+- Hackathon prototypes that can survive beyond the demo
 
 ---
 
-## Featured Work
+# `./flagship`
+
+## Systems I Want You To See First
 
 <table>
 <tr>
@@ -42,11 +61,11 @@ I am a Computer Science & Engineering student who enjoys turning difficult ideas
 ### CrisisOps
 **Disaster Response Memory Engine**
 
-Persistent operational memory for emergency response, combining field reports and public intelligence with Retain → Recall → Reflect workflows.
+A persistent operational memory layer for emergency-response information, built around **Retain → Recall → Reflect** workflows.
 
 **Python · FastAPI · SQLite · Hindsight · Docker · Render**
 
-<a href="https://crisisops-9541.onrender.com">Live Demo</a> · <a href="https://github.com/Sanjeevakumarnani/CrisisOps">Source</a>
+<a href="https://crisisops-9541.onrender.com">LIVE DEMO</a> · <a href="https://github.com/Sanjeevakumarnani/CrisisOps">SOURCE</a>
 
 </td>
 <td width="50%" valign="top">
@@ -54,37 +73,38 @@ Persistent operational memory for emergency response, combining field reports an
 ### EngramOps
 **Engineering Failure & Decision Memory**
 
-A memory layer that helps engineering teams recall incidents, failure mechanisms, attempted fixes, outcomes and lessons before future decisions.
+A memory layer for incidents, failed fixes, outcomes and engineering lessons—designed to make past decisions useful to future teams.
 
 **Python · FastAPI · SQLite · Hindsight · Docker**
 
-<a href="https://github.com/Sanjeevakumarnani/EngramOps">Source</a>
+<a href="https://github.com/Sanjeevakumarnani/EngramOps">SOURCE</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### SocioSports
-**Full-Stack Sports Community**
+**Sports Ecosystem Platform**
 
-A database-backed sports platform covering discovery, participation, community workflows and authentication.
+A database-backed sports platform spanning discovery, participation, community workflows and authentication.
 
 **React · TypeScript · Vite · Tailwind · Prisma · Node.js**
 
-<a href="https://github.com/Sanjeevakumarnani/SocioSports">Source</a>
+<a href="https://github.com/Sanjeevakumarnani/SocioSports">SOURCE</a>
 
 </td>
 <td width="50%" valign="top">
 
-### HEY.SSK
-**Local Android Reminder**
+### MediKiosk+
+**AI-Assisted Patient Intake**
 
-A native, local-first reminder application designed for a simple and focused Android experience.
+A multilingual clinical-intake and OPD workflow concept designed around faster patient registration, triage and queue handling.
 
-**Kotlin · Jetpack Compose · Android · Gradle**
+**TypeScript · React · Express · MySQL**
 
-<a href="https://github.com/Sanjeevakumarnani/Hey-SSK-ReminderApp">Source</a>
+<a href="https://github.com/Sanjeevakumarnani/smart-india-hackathon">SOURCE</a>
 
 </td>
 </tr>
@@ -92,116 +112,158 @@ A native, local-first reminder application designed for a simple and focused And
 
 ---
 
-## Tech Stack
+# `./lab`
+
+## The Rest of the Lab
+
+| Project | What it explores | Stack |
+|---|---|---|
+| **CampusWave** | College radio + campus communication backend | Flask · MySQL · JWT |
+| **NutriSense AI** | Food analysis, meal planning and habit tracking | Node.js · Express · Gemini |
+| **VoteWise AI** | Election-process education assistant | Gemini · Google Cloud · Maps |
+| **StockSense** | Stock analytics dashboard + API backend | React · Flask · SQLAlchemy |
+| **HEY.SSK** | Local-first Android reminders | Kotlin · Compose |
+| **LinkShield** | Anti-phishing security prototype | React Native · FastAPI · Supabase |
+
+---
+
+# `./stack`
+
+## Engineering Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,kotlin,sql" alt="Languages">
-
-### Web · Backend · Data
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,fastapi,flask,postgres,mysql,sqlite,prisma" alt="Web backend and data">
-
-### DevOps · Tools
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,androidstudio,vscode" alt="DevOps and tools">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,kotlin,react,vite,tailwind,nodejs,fastapi,flask,postgres,mysql,sqlite,prisma,docker,githubactions,git,github,vercel,androidstudio" alt="Technology stack">
 
 </div>
-
----
-
-# `./what-i-build`
-
-## What I Build
-
-| Domain | Focus |
-|---|---|
-| **Full-Stack** | React, TypeScript, Python, APIs, authentication, databases |
-| **AI Systems** | AI-assisted workflows, memory systems, human-in-the-loop design |
-| **Backend** | FastAPI, Flask, Prisma, SQLAlchemy, REST APIs |
-| **Mobile** | Android, Kotlin, Jetpack Compose |
-| **Data** | PostgreSQL, MySQL, SQLite |
-| **Deployment** | Docker, Render, Vercel, GitHub Pages |
-| **Hackathons** | Rapid prototyping, architecture, demos and product delivery |
-
----
-
-# `./engineering-manifesto`
-
-## Engineering Principles
-
-<div align="center">
-
-| Principle | How I work |
-|---|---|
-| **Useful** | Solve a concrete problem before adding complexity |
-| **Reliable** | Make setup, validation and failure modes visible |
-| **Transparent** | Separate real, operator-provided and synthetic data |
-| **Maintainable** | Prefer clear architecture and documented decisions |
-| **Responsible** | Keep humans accountable for consequential decisions |
-
-</div>
-
----
-
-# `./github`
-
-## GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Sanjeevakumarnani">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjeevakumarnani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub statistics">
-</a>
-<a href="https://github.com/Sanjeevakumarnani">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevakumarnani&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
-</a>
 
 <br>
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · Java · Kotlin · SQL |
+| **Frontend** | React · Vite · Tailwind CSS |
+| **Backend** | FastAPI · Flask · Node.js · Express |
+| **Data** | PostgreSQL · MySQL · SQLite · Prisma · SQLAlchemy |
+| **Mobile** | Android · Kotlin · Jetpack Compose |
+| **DevOps** | Docker · GitHub Actions · Render · Vercel · GitHub Pages |
+| **Engineering** | REST APIs · Authentication · RBAC · Documentation · Testing |
+
+---
+
+# `./architecture`
+
+## How I Think About Software
+
+<div align="center">
+
+| 01 | **Problem** | Start with the user and the constraint |
+|---:|---|---|
+| 02 | **Architecture** | Keep responsibilities understandable |
+| 03 | **Data** | Make state, ownership and failure modes explicit |
+| 04 | **Build** | Ship the smallest useful system |
+| 05 | **Validate** | Test assumptions before polishing |
+| 06 | **Deploy** | Make the product executable outside localhost |
+| 07 | **Learn** | Turn failures into reusable knowledge |
+
+</div>
+
+> **The goal is not the biggest codebase. The goal is a system another developer can understand and continue.**
+
+---
+
+# `./activity`
+
+## GitHub Pulse
+
+<div align="center">
+
+<a href="https://github.com/Sanjeevakumarnani">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjeevakumarnani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub statistics">
+</a>
+<a href="https://github.com/Sanjeevakumarnani">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevakumarnani&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
+</a>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Sanjeevakumarnani&hide_border=true" alt="GitHub contribution streak">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeevakumarnani&hide_border=true&area=true" width="100%" alt="GitHub activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeevakumarnani&hide_border=true&area=true&custom_title=Sanjeevakumarnani%20Activity" width="96%" alt="GitHub activity graph">
 
 </div>
 
 ---
 
-# `./currently`
+# `./achievements`
 
-## Current Direction
+## GitHub Achievements
 
-**Production-minded development · AI systems · Open-source engineering · Hackathon projects**
+<div align="center">
 
-Currently focused on turning ambitious prototypes into systems that are easier to understand, deploy, test and extend.
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjeevakumarnani&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievements">
+
+</div>
+
+> This section is generated from GitHub activity. No artificial achievements or inflated numbers.
+
+---
+
+# `./contributions`
+
+## Contribution Map
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sanjeevakumarnani/Sanjeevakumarnani/output/github-contribution-grid-snake.svg" width="96%" alt="GitHub contribution snake">
+
+</div>
+
+---
+
+# `./now`
+
+## Building Next
+
+```yaml
+focus:
+  - production-minded AI systems
+  - full-stack products
+  - backend architecture
+  - developer tooling
+  - open-source engineering
+
+principles:
+  - build before overthinking
+  - document what matters
+  - test real assumptions
+  - ship working systems
+  - learn from failure
+```
 
 ---
 
 # `./connect`
 
-## Connect
-
 <div align="center">
 
-<a href="https://sanjeevakumarnani.github.io">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/sanjeevakumarnani/">LinkedIn</a> ·
-<a href="https://github.com/Sanjeevakumarnani">GitHub</a> ·
-<a href="mailto:ssksanjeevakumar198@gmail.com">Email</a>
+**Portfolio** · **LinkedIn** · **GitHub** · **Email**
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sanjeevakumarnani&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile views">
+<a href="https://sanjeevakumarnani.github.io">sanjeevakumarnani.github.io</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sanjeevakumarnani&label=PROFILE+VIEWS&style=flat-square" alt="Profile views">
+
+<br><br>
+
+<sub>BUILD · SHIP · LEARN · REPEAT</sub>
 
 </div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:020617&height=110&section=footer" width="100%" alt="Footer">
 
-### BUILD · SHIP · LEARN · REPEAT
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:111827&height=100&section=footer" width="100%" alt="Profile footer">
