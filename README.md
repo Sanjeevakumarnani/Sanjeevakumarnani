@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=180&section=header&text=SUGURU%20SANJEEVA%20KUMAR&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Full-Stack%20Development%20%7C%20AI%20Builder&descAlignY=60&descSize=17" width="100%" alt="Profile header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SUGURU%20SANJEEVA%20KUMAR&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20SHIP%20%E2%80%A2%20LEARN&descAlignY=62&descSize=18&animation=fadeIn&color=0:020617,45:1D4ED8,100:06B6D4" width="100%" alt="Header">
 
-<a href="https://sanjeevakumarnani.github.io">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/sanjeevakumarnani/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:ssksanjeevakumar198@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<a href="https://sanjeevakumarnani.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=67e8f9" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/sanjeevakumarnani/"><img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn"></a>
+<a href="mailto:ssksanjeevakumar198@gmail.com"><img src="https://img.shields.io/badge/CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email"></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+practical+software+for+real-world+problems.;Full-Stack+Developer+%7C+AI+Builder+%7C+Android+Developer;Turning+ideas+into+documented%2C+deployable+systems." alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI+Builder;Android+Developer;Hackathon+Developer;Building+software+for+real-world+problems." alt="Typing introduction">
+
+<br><br>
+
+> <b>I don't just learn technologies. I turn them into working products.</b>
 
 </div>
 
@@ -114,6 +112,8 @@ A native, local-first reminder application designed for a simple and focused And
 
 ---
 
+# `./what-i-build`
+
 ## What I Build
 
 | Domain | Focus |
@@ -127,6 +127,8 @@ A native, local-first reminder application designed for a simple and focused And
 | **Hackathons** | Rapid prototyping, architecture, demos and product delivery |
 
 ---
+
+# `./engineering-manifesto`
 
 ## Engineering Principles
 
@@ -143,6 +145,8 @@ A native, local-first reminder application designed for a simple and focused And
 </div>
 
 ---
+
+# `./github`
 
 ## GitHub Analytics
 
@@ -167,6 +171,8 @@ A native, local-first reminder application designed for a simple and focused And
 
 ---
 
+# `./currently`
+
 ## Current Direction
 
 **Production-minded development · AI systems · Open-source engineering · Hackathon projects**
@@ -174,6 +180,8 @@ A native, local-first reminder application designed for a simple and focused And
 Currently focused on turning ambitious prototypes into systems that are easier to understand, deploy, test and extend.
 
 ---
+
+# `./connect`
 
 ## Connect
 
