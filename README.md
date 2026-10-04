@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/developer-system.svg" width="100%" alt="Suguru Sanjeeva Kumar developer system">
+<img src="./assets/hacker-terminal.svg" width="100%" alt="Animated hacker terminal profile">
 
 <br>
 
@@ -178,6 +178,12 @@ A multilingual clinical-intake and OPD workflow concept designed around faster p
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanjeevakumarnani&theme=github_dark" width="96%" alt="GitHub profile details">
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/Sanjeevakumarnani">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjeevakumarnani&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub statistics">
 </a>
@@ -213,11 +219,19 @@ A multilingual clinical-intake and OPD workflow concept designed around faster p
 
 # `./contributions`
 
+## Contribution Arcade
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sanjeevakumarnani/Sanjeevakumarnani/output/github-contribution-grid-snake.svg" width="96%" alt="Animated contribution snake">
+
+</div>
+
 ## Contribution Map
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sanjeevakumarnani/Sanjeevakumarnani/output/github-contribution-grid-snake.svg" width="96%" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/Sanjeevakumarnani/Sanjeevakumarnani/output/github-contribution-grid-snake.svg" width="96%" alt="Animated contribution snake">
 
 </div>
 
