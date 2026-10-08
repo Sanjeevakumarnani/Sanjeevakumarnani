@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=1" width="100%" alt="Suguru Sanjeeva Kumar GitHub profile hero">
+<img src="./assets/hero.svg?v=2" width="100%" alt="Suguru Sanjeeva Kumar GitHub profile hero">
 
-<img src="./assets/about-life.svg?v=1" width="100%" alt="About Suguru Sanjeeva Kumar">
+<img src="./assets/about-life.svg?v=2" width="100%" alt="About Suguru Sanjeeva Kumar">
 
-<img src="./assets/stack.svg?v=1" width="100%" alt="Technology stack">
+<img src="./assets/stack.svg?v=2" width="100%" alt="Technology stack">
 
-<img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Developer ID and verified profile data">
+<img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Developer ID and verified profile data">
 
-<img src="./assets/connect.svg?v=1" width="100%" alt="Connect with Suguru Sanjeeva Kumar">
+<img src="./assets/connect.svg?v=2" width="100%" alt="Connect with Suguru Sanjeeva Kumar">
 
 </div>
 
