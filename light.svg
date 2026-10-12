@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">SUGURU SANJEEVA KUMAR — animated GitHub terminal profile</title>
+<desc id="desc">A theme-aware terminal interface with a dotted portrait, profile system information, and animated technology marks.</desc>
+<defs>
+  <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".8" fill="#64748B" opacity=".22"/></pattern>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0891B2"/><stop offset=".54" stop-color="#7C3AED"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+  <linearGradient id="portraitTone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7C3AED" stop-opacity=".45"/><stop offset="1" stop-color="#0891B2" stop-opacity=".12"/></linearGradient>
+  <pattern id="portraitDots" x="52" y="154" width="3.4" height="3.4" patternUnits="userSpaceOnUse"><rect width="3.4" height="3.4" fill="#000000"/><circle cx="1.7" cy="1.7" r="1.25" fill="#FFFFFF"/></pattern>
+  <mask id="portraitMask" maskUnits="userSpaceOnUse" x="48" y="150" width="280" height="336"><rect x="48" y="150" width="280" height="336" fill="url(#portraitDots)"/></mask>
+  <clipPath id="portraitClip"><rect x="48" y="150" width="280" height="336" rx="10"/></clipPath>
+  <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="1180" height="610" rx="24" fill="#F8FAFC"/>
+<rect width="1180" height="610" rx="24" fill="url(#grid)"/>
+<rect x="14" y="14" width="1152" height="582" rx="20" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+<path d="M34 15H1146" stroke="url(#edge)" stroke-width="3"/>
+<rect x="15" y="15" width="1150" height="57" rx="18" fill="#F1F5F9"/>
+<rect x="15" y="53" width="1150" height="20" fill="#F1F5F9"/>
+<circle cx="42" cy="43" r="5.5" fill="#F87171"/><circle cx="61" cy="43" r="5.5" fill="#FBBF24"/><circle cx="80" cy="43" r="5.5" fill="#10B981"/>
+<text x="103" y="48" font-family="monospace" font-size="16" font-weight="700" fill="#1E293B">profile.sh --live</text>
+<text x="360" y="48" font-family="monospace" font-size="11.5" fill="#64748B">GITHUB / DEVELOPER PROFILE / SYSTEM.INFO</text>
+<rect x="926" y="28" width="72" height="28" rx="14" fill="#FEE2E2" stroke="#EF4444"/>
+<circle cx="941" cy="42" r="3.5" fill="#EF4444"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="953" y="46" font-family="monospace" font-size="11" font-weight="700" fill="#B91C1C">LIVE</text>
+<rect x="1010" y="28" width="135" height="28" rx="14" fill="#E0F2FE" stroke="#0891B2" stroke-opacity=".7"/>
+<text x="1077.5" y="46" font-family="monospace" font-size="10.5" font-weight="700" fill="#0891B2" text-anchor="middle">@Sanjeevakumarnani</text>
+<rect x="34" y="91" width="322" height="469" rx="15" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="51" y="121" font-family="monospace" font-size="12" letter-spacing="1.4" fill="#0891B2">VISUAL.MAP</text>
+<text x="337" y="121" text-anchor="end" font-family="monospace" font-size="10" fill="#64748B">01 / IDENTITY</text>
+<rect x="48" y="137" width="280" height="349" rx="10" fill="#F8FAFC" stroke="#CBD5E1"/>
+<image href="https://avatars.githubusercontent.com/u/116718575?v=4" x="48" y="150" width="280" height="336" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)" mask="url(#portraitMask)"/>
+<rect x="48" y="150" width="280" height="336" fill="url(#portraitTone)" opacity=".22" clip-path="url(#portraitClip)"/>
+<circle cx="124" cy="459" r="1.68" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.41s" dur="3.2s" fill="freeze"/></circle><circle cx="247" cy="241" r="0.72" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.45s" dur="3.2s" fill="freeze"/></circle><circle cx="154" cy="441" r="1.14" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.79s" dur="3.2s" fill="freeze"/></circle><circle cx="235" cy="432" r="1.10" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.37s" dur="3.2s" fill="freeze"/></circle><circle cx="321" cy="440" r="1.39" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.01s" dur="3.2s" fill="freeze"/></circle><circle cx="287" cy="344" r="1.67" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.41s" dur="3.2s" fill="freeze"/></circle><circle cx="278" cy="272" r="1.31" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.14s" dur="3.2s" fill="freeze"/></circle><circle cx="233" cy="291" r="1.18" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.84s" dur="3.2s" fill="freeze"/></circle><circle cx="289" cy="230" r="1.01" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.01s" dur="3.2s" fill="freeze"/></circle><circle cx="252" cy="422" r="1.59" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.26s" dur="3.2s" fill="freeze"/></circle><circle cx="126" cy="327" r="1.29" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.40s" dur="3.2s" fill="freeze"/></circle><circle cx="283" cy="196" r="1.11" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.87s" dur="3.2s" fill="freeze"/></circle><circle cx="192" cy="168" r="0.73" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.91s" dur="3.2s" fill="freeze"/></circle><circle cx="316" cy="307" r="1.30" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.04s" dur="3.2s" fill="freeze"/></circle><circle cx="322" cy="347" r="1.32" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="2.06s" dur="3.2s" fill="freeze"/></circle><circle cx="241" cy="386" r="0.84" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.81s" dur="3.2s" fill="freeze"/></circle><circle cx="265" cy="237" r="0.79" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.45s" dur="3.2s" fill="freeze"/></circle><circle cx="308" cy="350" r="1.19" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="2.19s" dur="3.2s" fill="freeze"/></circle><circle cx="262" cy="332" r="1.07" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.29s" dur="3.2s" fill="freeze"/></circle><circle cx="63" cy="265" r="0.94" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.91s" dur="3.2s" fill="freeze"/></circle><circle cx="89" cy="380" r="1.33" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.46s" dur="3.2s" fill="freeze"/></circle><circle cx="60" cy="222" r="1.10" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.77s" dur="3.2s" fill="freeze"/></circle><circle cx="69" cy="252" r="1.64" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.55s" dur="3.2s" fill="freeze"/></circle><circle cx="152" cy="233" r="1.28" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.93s" dur="3.2s" fill="freeze"/></circle><circle cx="284" cy="222" r="1.05" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.91s" dur="3.2s" fill="freeze"/></circle><circle cx="299" cy="451" r="1.17" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.50s" dur="3.2s" fill="freeze"/></circle><circle cx="145" cy="369" r="0.93" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.04s" dur="3.2s" fill="freeze"/></circle><circle cx="105" cy="196" r="0.82" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.46s" dur="3.2s" fill="freeze"/></circle><circle cx="184" cy="291" r="1.43" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="2.11s" dur="3.2s" fill="freeze"/></circle><circle cx="319" cy="326" r="1.64" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.20s" dur="3.2s" fill="freeze"/></circle><circle cx="183" cy="353" r="1.17" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.97s" dur="3.2s" fill="freeze"/></circle><circle cx="135" cy="187" r="0.74" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.07s" dur="3.2s" fill="freeze"/></circle><circle cx="62" cy="232" r="0.98" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.58s" dur="3.2s" fill="freeze"/></circle><circle cx="202" cy="327" r="1.52" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.61s" dur="3.2s" fill="freeze"/></circle><circle cx="318" cy="203" r="0.98" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.33s" dur="3.2s" fill="freeze"/></circle><circle cx="85" cy="385" r="0.91" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.40s" dur="3.2s" fill="freeze"/></circle><circle cx="139" cy="329" r="1.69" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.89s" dur="3.2s" fill="freeze"/></circle><circle cx="106" cy="336" r="1.74" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.28s" dur="3.2s" fill="freeze"/></circle><circle cx="145" cy="269" r="1.79" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.41s" dur="3.2s" fill="freeze"/></circle><circle cx="313" cy="230" r="0.76" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="2.17s" dur="3.2s" fill="freeze"/></circle><circle cx="138" cy="320" r="1.07" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.87s" dur="3.2s" fill="freeze"/></circle><circle cx="76" cy="261" r="1.60" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.32s" dur="3.2s" fill="freeze"/></circle><circle cx="138" cy="361" r="1.01" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.15s" dur="3.2s" fill="freeze"/></circle><circle cx="171" cy="249" r="1.32" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.23s" dur="3.2s" fill="freeze"/></circle><circle cx="169" cy="321" r="0.78" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.67s" dur="3.2s" fill="freeze"/></circle><circle cx="130" cy="351" r="0.77" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.33s" dur="3.2s" fill="freeze"/></circle><circle cx="127" cy="375" r="1.76" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.86s" dur="3.2s" fill="freeze"/></circle><circle cx="229" cy="271" r="1.68" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.21s" dur="3.2s" fill="freeze"/></circle><circle cx="273" cy="241" r="0.93" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.78s" dur="3.2s" fill="freeze"/></circle><circle cx="73" cy="315" r="1.28" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.77s" dur="3.2s" fill="freeze"/></circle><circle cx="188" cy="314" r="1.61" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.60s" dur="3.2s" fill="freeze"/></circle><circle cx="217" cy="342" r="1.01" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.32s" dur="3.2s" fill="freeze"/></circle><circle cx="243" cy="404" r="0.92" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.29s" dur="3.2s" fill="freeze"/></circle><circle cx="117" cy="245" r="0.75" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.23s" dur="3.2s" fill="freeze"/></circle><circle cx="187" cy="300" r="1.21" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.04s" dur="3.2s" fill="freeze"/></circle><circle cx="181" cy="452" r="1.63" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="2.04s" dur="3.2s" fill="freeze"/></circle><circle cx="243" cy="359" r="1.50" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.32s" dur="3.2s" fill="freeze"/></circle><circle cx="161" cy="331" r="0.93" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.06s" dur="3.2s" fill="freeze"/></circle><circle cx="135" cy="297" r="0.79" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="1.49s" dur="3.2s" fill="freeze"/></circle><circle cx="298" cy="242" r="1.10" fill="#7C3AED" opacity="0"><animate attributeName="opacity" values="0;.55;.12;0" keyTimes="0;.28;.7;1" begin="0.71s" dur="3.2s" fill="freeze"/></circle>
+<path d="M48 501H328" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="51" y="522" font-family="monospace" font-size="10.5" fill="#64748B">IDENTITY / DOT-MAP</text>
+<text x="51" y="543" font-family="monospace" font-size="12.5" fill="#0F172A">BUILD. LEARN. SHIP.</text>
+<circle cx="311" cy="533" r="3" fill="#10B981"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="374" y="91" width="772" height="469" rx="15" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="397" y="121" font-family="monospace" font-size="12" letter-spacing="1.4" fill="#0891B2">SYSTEM.INFO</text>
+<text x="1126" y="121" text-anchor="end" font-family="monospace" font-size="10" fill="#64748B">16 FIELDS / PUBLIC DATA</text>
+<path d="M397 133H1124" stroke="#CBD5E1"/>
+<g>
+      <text x="414" y="158" font-family="monospace" font-size="13" fill="#0891B2">Subject</text>
+      <path d="M487.75 154H517.55" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="158" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="135.45000000000002" lengthAdjust="spacingAndGlyphs">SUGURU SANJEEVA KUMAR</text>
+    </g>
+<g>
+      <text x="414" y="180" font-family="monospace" font-size="13" fill="#0891B2">Role</text>
+      <path d="M466 176H524" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="180" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="129" lengthAdjust="spacingAndGlyphs">Full-Stack Developer</text>
+    </g>
+<g>
+      <text x="414" y="202" font-family="monospace" font-size="13" fill="#0891B2">Origin</text>
+      <path d="M480.5 198H549.8" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="202" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="103.2" lengthAdjust="spacingAndGlyphs">Hyderabad, India</text>
+    </g>
+<g>
+      <text x="414" y="224" font-family="monospace" font-size="13" fill="#0891B2">Education</text>
+      <path d="M502.25 220H517.25" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="224" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="167.70000000000002" lengthAdjust="spacingAndGlyphs">B.Tech Lateral Entry · CSE</text>
+    </g>
+<g>
+      <text x="414" y="246" font-family="monospace" font-size="13" fill="#0891B2">Status</text>
+      <path d="M480.5 242H495.5" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="246" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="193.5" lengthAdjust="spacingAndGlyphs">Building · Learning · Shipping</text>
+    </g>
+<g>
+      <text x="414" y="268" font-family="monospace" font-size="13" fill="#0891B2">ToolChain</text>
+      <path d="M502.25 264H517.25" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="268" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="193.5" lengthAdjust="spacingAndGlyphs">VS Code · Git · Android Studio</text>
+    </g>
+<g>
+      <text x="414" y="290" font-family="monospace" font-size="13" fill="#0891B2">Core.Lang</text>
+      <path d="M502.25 286H517.25" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="290" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="264.45" lengthAdjust="spacingAndGlyphs">Python · TypeScript · JavaScript · Kotlin</text>
+    </g>
+<g>
+      <text x="414" y="312" font-family="monospace" font-size="13" fill="#0891B2">Core.Frontend</text>
+      <path d="M531.25 308H546.25" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="312" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="174.15" lengthAdjust="spacingAndGlyphs">React · Vite · Tailwind CSS</text>
+    </g>
+<g>
+      <text x="414" y="334" font-family="monospace" font-size="13" fill="#0891B2">Core.Backend</text>
+      <path d="M524 330H539" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="334" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="161.25" lengthAdjust="spacingAndGlyphs">FastAPI · Flask · Node.js</text>
+    </g>
+<g>
+      <text x="414" y="356" font-family="monospace" font-size="13" fill="#0891B2">Core.Database</text>
+      <path d="M531.25 352H546.25" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="356" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="174.15" lengthAdjust="spacingAndGlyphs">PostgreSQL · MySQL · SQLite</text>
+    </g>
+<g>
+      <text x="414" y="378" font-family="monospace" font-size="13" fill="#0891B2">Core.Infra</text>
+      <path d="M509.5 374H524.5" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="378" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="277.35" lengthAdjust="spacingAndGlyphs">Vercel · Render · Supabase · GitHub Actions</text>
+    </g>
+<g>
+      <text x="414" y="400" font-family="monospace" font-size="13" fill="#0891B2">Grid.Mail</text>
+      <path d="M502.25 396H517.25" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="400" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="187.05" lengthAdjust="spacingAndGlyphs">ssksanjeevakumar198@gmail.com</text>
+    </g>
+<g>
+      <text x="414" y="422" font-family="monospace" font-size="13" fill="#0891B2">Grid.Portfolio</text>
+      <path d="M538.5 418H553.5" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="422" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="174.15" lengthAdjust="spacingAndGlyphs">sanjeevakumarnani.github.io</text>
+    </g>
+<g>
+      <text x="414" y="444" font-family="monospace" font-size="13" fill="#0891B2">Grid.LinkedIn</text>
+      <path d="M531.25 440H546.25" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="444" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="212.85" lengthAdjust="spacingAndGlyphs">linkedin.com/in/sanjeevakumarnani</text>
+    </g>
+<g>
+      <text x="414" y="466" font-family="monospace" font-size="13" fill="#0891B2">Grid.Instagram</text>
+      <path d="M538.5 462H553.5" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="466" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="193.5" lengthAdjust="spacingAndGlyphs">instagram.com/ssksanjeevakumar</text>
+    </g>
+<g>
+      <text x="414" y="488" font-family="monospace" font-size="13" fill="#0891B2">Grid.GitHub</text>
+      <path d="M516.75 484H531.75" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="1.5 5" opacity=".85"/>
+      <text x="668" y="488" font-family="monospace" font-size="12.4" fill="#0F172A" textLength="180.6" lengthAdjust="spacingAndGlyphs">github.com/Sanjeevakumarnani</text>
+    </g>
+<path d="M397 510H1124" stroke="#CBD5E1"/>
+<text x="414" y="536" font-family="monospace" font-size="10.5" fill="#64748B">STACK.SIGNALS</text>
+<path d="M672 536l14 -12m-14 12l14 12M711 524l-14 24M720 524l14 12l-14 12" fill="none" stroke="#0891B2" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="1"><animate attributeName="opacity" values="1;1;0;0;0;0;0;0;1" keyTimes="0;0.2113;0.3028;0.4437;0.5352;0.6761;0.7676;0.9085;1" dur="14.2s" repeatCount="indefinite"/></path>
+<path d="M680 524v16q0 5 5 5h10q5 0 5 -5v-7h-10v-7q0 -7 7 -7h8" fill="none" stroke="#7C3AED" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0;0;0;0" keyTimes="0;0.2113;0.3028;0.4437;0.5352;0.6761;0.7676;0.9085;1" dur="14.2s" repeatCount="indefinite"/></path>
+<path d="M677 523l15 27l15 -27M707 523h10v27" fill="none" stroke="#10B981" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0" keyTimes="0;0.2113;0.3028;0.4437;0.5352;0.6761;0.7676;0.9085;1" dur="14.2s" repeatCount="indefinite"/></path>
+<text x="755" y="541" font-family="monospace" font-size="10.5" fill="#64748B">LANGUAGE  /  BUILD  /  DEPLOY</text>
+<text x="1141" y="581" text-anchor="end" font-family="monospace" font-size="9.5" fill="#64748B">THEME-AWARE SVG • SANJEEVAKUMARNANI</text>
+</svg>
