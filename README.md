@@ -1,10 +1,11 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjeevakumarnani/Sanjeevakumarnani/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjeevakumarnani/Sanjeevakumarnani/main/light.svg">
-  <img src="https://raw.githubusercontent.com/Sanjeevakumarnani/Sanjeevakumarnani/main/dark.svg" alt="Suguru Sanjeeva Kumar — burgundy developer identity" width="100%">
-</picture>
+<!-- Use one direct SVG image source for maximum GitHub README compatibility. -->
+<img src="https://raw.githubusercontent.com/Sanjeevakumarnani/Sanjeevakumarnani/main/hero.svg?v=20261017" alt="Suguru Sanjeeva Kumar — burgundy developer profile banner" width="100%">
+
+<br>
+
+<img src="https://avatars.githubusercontent.com/u/116718575?v=4" alt="Suguru Sanjeeva Kumar's GitHub profile avatar" width="112" height="112">
 
 <br>
 
