@@ -31,8 +31,7 @@ I'm **Suguru Sanjeeva Kumar**, a Computer Science and Engineering student and de
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/Sanjeevakumarnani/OmniRep-PS64-INNOBLOCK">OmniRep</a></strong><br>
-      An omnichain reputation passport concept for turning activity across testnet wallets into a portable, explainable reputation profile.<br><br>
-      <a href="https://omni-rep-ps-64-innoblock-ly8xronci-sanjeevakumarnanis-projects.vercel.app/">Live app</a>
+      An omnichain reputation passport concept for turning activity across testnet wallets into a portable, explainable reputation profile.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/Sanjeevakumarnani/CrisisOps">CrisisOps</a></strong><br>
