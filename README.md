@@ -51,11 +51,6 @@
 
 ![Connect with me](./assets/connect.svg?v=3)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-8F244E?style=for-the-badge&logo=github&logoColor=FFF6F8)](https://github.com/Sanjeevakumarnani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-8F244E?style=for-the-badge&logo=linkedin&logoColor=FFF6F8)](https://www.linkedin.com/in/sanjeevakumarnani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-8F244E?style=for-the-badge&logo=googlechrome&logoColor=FFF6F8)](https://sanjeevakumarnani.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-@ssksanjeevakumar-B64670?style=for-the-badge&logo=instagram&logoColor=FFF6F8)](https://www.instagram.com/ssksanjeevakumar/)
-[![Email](https://img.shields.io/badge/Email-Contact-B64670?style=for-the-badge&logo=gmail&logoColor=FFF6F8)](mailto:ssksanjeevakumar198@gmail.com)
 
 ---
 
