@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410"><defs><linearGradient id="foil" x1="0" x2="1"><stop stop-color="#cbd5e1"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#9aa7ba"/></linearGradient><style><![CDATA[text{font-family:Arial,sans-serif}.off{fill:#f4f6fa}.muted{fill:#91a1bf}.pink{fill:#ff354f}.blue{fill:#247bff}.cap{font-size:12px;letter-spacing:2px}.small{font-size:11px}.body{font-size:14px}.mono{font-family:monospace}@media(prefers-reduced-motion:reduce){*{animation:none!important}}]]></style></defs><rect width="900" height="410" rx="28" fill="#070b16"/><text x="34" y="43" class="cap pink">DEVELOPER ID / VERIFIED DATA</text><rect x="24" y="60" width="850" height="330" rx="22" fill="#0b1324" stroke="#213253"/><g transform="rotate(-2 225 190)"><animateTransform attributeName="transform" type="rotate" values="-2 225 190;1.7 225 190;-1.2 225 190;.9 225 190;-2 225 190" dur="3.5s" repeatCount="indefinite"/><line x1="165" y1="62" x2="295" y2="95" stroke="#b6c2d4" stroke-width="8"/><circle cx="230" cy="77" r="10" fill="#d5dce8"/><rect x="85" y="93" width="270" height="220" rx="18" fill="#e2e8f0" stroke="#9caeca" stroke-width="4"/><rect x="101" y="109" width="108" height="133" rx="10" fill="#0b1324"/><text x="155" y="175" text-anchor="middle" font-size="11" fill="#91a1bf">ID PORTRAIT</text><text x="225" y="137" class="mono" font-size="12" fill="#0b1324">SUGURU</text><text x="225" y="156" class="mono" font-size="12" fill="#0b1324">SANJEEVA KUMAR</text><text x="225" y="180" class="mono" font-size="9" fill="#334055">FULL-STACK DEVELOPER</text><text x="225" y="195" class="mono" font-size="9" fill="#334055">CSE · HYDERABAD</text><rect x="102" y="252" width="235" height="28" fill="#111827"/><path d="M114 255h4v22h-4zm9 0h2v22h-2zm8 0h6v22h-6zm12 0h3v22h-3zm8 0h2v22h-2zm8 0h7v22h-7zm12 0h3v22h-3zm7 0h5v22h-5zm11 0h2v22h-2zm8 0h7v22h-7zm14 0h3v22h-3zm8 0h2v22h-2zm8 0h6v22h-6z" fill="#f3f5f9"/><rect x="101" y="289" width="236" height="8" rx="4" fill="url(#foil)" opacity=".9"/><rect x="102" y="307" width="235" height="2" fill="#91a1bf"/></g><g><rect x="425" y="105" width="355" height="82" rx="14" fill="#101d34" stroke="#29466f"/><text x="441" y="130" class="small muted">VERIFIED PROFILE DATA</text><text x="441" y="159" class="body off">GitHub · Sanjeevakumarnani</text><text x="628" y="159" class="small blue">PUBLIC</text><rect x="425" y="210" width="355" height="82" rx="14" fill="#101d34" stroke="#29466f"/><text x="441" y="235" class="small muted">EDUCATION</text><text x="441" y="264" class="body off">B.Tech Lateral Entry · CSE</text><text x="441" y="282" class="small muted">Geethanjali College of Engineering and Technology</text><rect x="425" y="315" width="355" height="40" rx="12" fill="#101d34" stroke="#29466f"/><text x="441" y="340" class="small muted">COUNTERS / METRICS</text><text x="592" y="340" class="small off">OMITTED WHEN NOT VERIFIED</text></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" role="img" aria-labelledby="title">
+<title id="title">Developer identity card and profile information</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070D"/><stop offset="1" stop-color="#3E0C23"/></linearGradient>
+  <linearGradient id="foil" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#AA315F"/><stop offset=".5" stop-color="#FFE0EB"/><stop offset="1" stop-color="#AA315F"/></linearGradient>
+  <style>text{font-family:Arial,sans-serif}.cream{fill:#FFF6F8}.pink{fill:#F08DB1}.muted{fill:#D5A8B7}.cap{font-size:12px;letter-spacing:2px}.small{font-size:11px}.mono{font-family:monospace}</style>
+</defs>
+<rect width="900" height="410" rx="25" fill="url(#bg)"/><rect x="14" y="14" width="872" height="382" rx="20" fill="none" stroke="#8F244E"/>
+<text x="34" y="44" class="cap pink">03 / DEVELOPER ID</text>
+<g transform="rotate(-2 235 220)">
+  <rect x="74" y="90" width="300" height="242" rx="18" fill="#F5DDE6" stroke="#F08DB1" stroke-width="2"/>
+  <rect x="91" y="107" width="105" height="140" rx="10" fill="#3D0B21"/>
+  <circle cx="143" cy="152" r="24" fill="#F08DB1" opacity=".8"/><path d="M108 222Q111 178 143 178Q175 178 179 222" fill="#F08DB1" opacity=".8"/>
+  <text x="214" y="131" class="mono" font-size="11" fill="#3D0B21">PROFILE CARD</text>
+  <text x="214" y="161" class="mono" font-size="12" fill="#3D0B21">SUGURU</text>
+  <text x="214" y="179" class="mono" font-size="12" fill="#3D0B21">SANJEEVA KUMAR</text>
+  <text x="214" y="203" class="mono" font-size="9" fill="#6F163A">FULL-STACK DEVELOPER</text>
+  <text x="214" y="218" class="mono" font-size="9" fill="#6F163A">CSE · HYDERABAD</text>
+  <rect x="91" y="262" width="265" height="30" fill="#2A0818"/>
+  <g fill="#FFF6F8"><path d="M101 265h3v24h-3zm8 0h6v24h-6zm12 0h2v24h-2zm7 0h5v24h-5zm10 0h2v24h-2zm7 0h6v24h-6zm12 0h3v24h-3zm8 0h7v24h-7zm13 0h2v24h-2zm7 0h5v24h-5zm10 0h3v24h-3zm9 0h6v24h-6zm12 0h2v24h-2zm7 0h5v24h-5zm10 0h2v24h-2zm8 0h7v24h-7zm13 0h2v24h-2zm8 0h6v24h-6zm12 0h3v24h-3zm8 0h4v24h-4z"/></g>
+  <rect x="91" y="302" width="265" height="8" rx="4" fill="url(#foil)"/>
+</g>
+<rect x="430" y="98" width="365" height="70" rx="12" fill="#210815" stroke="#8F244E"/>
+<text x="450" y="124" class="small muted">IDENTITY</text><text x="450" y="151" class="cream" font-size="20">Sanjeeva Kumar</text>
+<rect x="430" y="185" width="365" height="70" rx="12" fill="#210815" stroke="#8F244E"/>
+<text x="450" y="211" class="small muted">FOCUS</text><text x="450" y="238" class="cream" font-size="19">Full-Stack · AI · Backend</text>
+<rect x="430" y="272" width="365" height="59" rx="12" fill="#210815" stroke="#8F244E"/>
+<text x="450" y="295" class="small muted">PUBLIC PROFILE</text><text x="450" y="317" class="pink" font-family="monospace" font-size="13">github.com/Sanjeevakumarnani</text>
+<text x="34" y="373" class="small muted">No inflated counters or unverified metrics — just the work and the builder.</text>
+</svg>
