@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
 <title id="title">Suguru Sanjeeva Kumar — developer profile</title>
-<desc id="desc">A burgundy developer profile banner with a technical grid, editorial typography, and abstract orbital geometry.</desc>
+<desc id="desc">A dark burgundy and magenta profile banner with large editorial serif typography and a portrait frame on the right.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10070C"/><stop offset=".52" stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient>
-  <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#701A3D" stop-opacity=".1"/><stop offset=".5" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D" stop-opacity=".1"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#C77B9B" stop-opacity=".28"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#E5B5C7" stroke-opacity=".075" stroke-width="1"/></pattern>
+  <linearGradient id="wine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070D"/><stop offset=".48" stop-color="#260A18"/><stop offset="1" stop-color="#641334"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#E52B70" stop-opacity=".42"/><stop offset="1" stop-color="#E52B70" stop-opacity="0"/></radialGradient>
+  <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7A1A40" stop-opacity=".15"/><stop offset=".52" stop-color="#F4B7CD"/><stop offset="1" stop-color="#7A1A40" stop-opacity=".12"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#F4B7CD" stroke-opacity=".045"/></pattern>
+  <clipPath id="portraitClip"><ellipse cx="954" cy="247" rx="83" ry="123"/></clipPath>
 </defs>
-<rect width="1200" height="460" rx="26" fill="url(#bg)"/>
-<rect width="1200" height="460" rx="26" fill="url(#grid)"/>
-<circle cx="930" cy="224" r="275" fill="url(#glow)"/>
-<rect x="14" y="14" width="1172" height="432" rx="20" fill="none" stroke="#701A3D" stroke-width="1.5"/>
-<path d="M38 36H1162" stroke="url(#stroke)" stroke-width="2"/>
+<rect width="1200" height="500" rx="26" fill="url(#wine)"/>
+<rect width="1200" height="500" rx="26" fill="url(#grid)"/>
+<ellipse cx="960" cy="250" rx="285" ry="275" fill="url(#glow)"/>
+<rect x="15" y="15" width="1170" height="470" rx="20" fill="none" stroke="#8F244E" stroke-opacity=".9"/>
+<path d="M38 36H1162" stroke="url(#rule)" stroke-width="1.5"/>
 <g font-family="Arial, Helvetica, sans-serif">
-  <text x="54" y="68" font-family="monospace" font-size="12" letter-spacing="3" fill="#C77B9B">S K / DEVELOPER IDENTITY</text>
-  <text x="1144" y="68" font-family="monospace" font-size="11" letter-spacing="1" text-anchor="end" fill="#E5B5C7">HYDERABAD · INDIA</text>
-  <text x="54" y="151" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#F8F0F3">SUGURU SANJEEVA</text>
-  <text x="54" y="211" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#E5B5C7">KUMAR.</text>
-  <path d="M54 232H515" stroke="url(#stroke)" stroke-width="2"/>
-  <text x="54" y="270" font-family="monospace" font-size="14" letter-spacing=".4" fill="#F8F0F3">FULL-STACK DEVELOPER</text>
-  <text x="54" y="297" font-family="monospace" font-size="14" letter-spacing=".4" fill="#C77B9B">AI-ENABLED SYSTEMS · BACKEND ENGINEERING</text>
-  <text x="54" y="351" font-family="monospace" font-size="12" letter-spacing="1.3" fill="#E5B5C7">BUILDING SOFTWARE AROUND PROBLEMS WORTH SOLVING</text>
-  <text x="54" y="414" font-family="monospace" font-size="11" letter-spacing="1.2" fill="#C77B9B">PYTHON / TYPESCRIPT / REACT / FASTAPI / POSTGRESQL / KOTLIN</text>
+  <text x="54" y="67" font-family="monospace" font-size="12" letter-spacing="3" fill="#F08DB1">S K / DEVELOPER PROFILE</text>
+  <text x="1144" y="67" font-family="monospace" font-size="11" letter-spacing="1" text-anchor="end" fill="#E8B7C8">HYDERABAD · INDIA</text>
+  <text x="54" y="169" font-family="Georgia, 'Times New Roman', serif" font-size="66" fill="#FFF6F8">Suguru Sanjeeva</text>
+  <text x="54" y="241" font-family="Georgia, 'Times New Roman', serif" font-size="76" fill="#FFE0EB">Kumar.</text>
+  <path d="M57 264H650" stroke="url(#rule)" stroke-width="2"/>
+  <text x="58" y="298" font-family="monospace" font-size="13" letter-spacing="1.1" fill="#FFF6F8">FULL-STACK DEVELOPER  ·  AI &amp; SOFTWARE SYSTEMS</text>
+  <text x="58" y="328" font-size="16" fill="#EAC8D3">I turn ideas into useful, deployable software.</text>
+  <text x="58" y="379" font-family="monospace" font-size="11" letter-spacing="1.5" fill="#F08DB1">BUILDING  /  TESTING  /  SHIPPING  /  LEARNING</text>
+  <text x="58" y="432" font-family="monospace" font-size="11" letter-spacing="1.1" fill="#F8D9E4">PYTHON · TYPESCRIPT · REACT · FASTAPI · POSTGRESQL · KOTLIN</text>
 </g>
-<g transform="translate(900 235)" fill="none" stroke-linecap="round">
-  <circle r="155" stroke="#701A3D" stroke-width="2"/>
-  <circle r="120" stroke="#C77B9B" stroke-opacity=".75" stroke-dasharray="2 10"/>
-  <ellipse rx="155" ry="63" stroke="#E5B5C7" stroke-opacity=".75" transform="rotate(-32)"/>
-  <ellipse rx="155" ry="63" stroke="#C77B9B" stroke-opacity=".7" transform="rotate(32)"/>
-  <circle r="77" fill="#190B12" stroke="#C77B9B" stroke-width="1.5"/>
-  <path d="M-32 -12L-8 -36L16 -12L-8 12Z M8 12L32 36L8 60L-16 36Z" stroke="#E5B5C7" stroke-width="2.5"/>
-  <circle r="7" fill="#E5B5C7" stroke="none"/>
-  <circle cx="149" cy="-42" r="5" fill="#E5B5C7" stroke="none"/>
-  <circle cx="-122" cy="89" r="4" fill="#C77B9B" stroke="none"/>
+<g fill="none" stroke-linecap="round">
+  <ellipse cx="954" cy="247" rx="143" ry="172" stroke="#9D2855" stroke-width="1.5"/>
+  <ellipse cx="954" cy="247" rx="119" ry="153" stroke="#F08DB1" stroke-opacity=".7" stroke-dasharray="2 9"/>
+  <ellipse cx="954" cy="247" rx="166" ry="68" stroke="#F4B7CD" stroke-opacity=".65" transform="rotate(-30 954 247)"/>
+  <ellipse cx="954" cy="247" rx="166" ry="68" stroke="#E52B70" stroke-opacity=".7" transform="rotate(30 954 247)"/>
 </g>
-<g font-family="monospace" font-size="10" fill="#C77B9B">
-  <text x="741" y="100">01 / DESIGN</text>
-  <text x="1042" y="390">02 / BUILD</text>
-  <text x="735" y="403">03 / ITERATE</text>
+<ellipse cx="954" cy="247" rx="91" ry="132" fill="#260A18" stroke="#F4B7CD" stroke-width="3"/>
+<text x="954" y="260" font-family="Georgia,serif" font-size="46" text-anchor="middle" fill="#F4B7CD">SK</text>
+<image x="871" y="124" width="166" height="246" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)" href="https://avatars.githubusercontent.com/u/116718575?v=4" xlink:href="https://avatars.githubusercontent.com/u/116718575?v=4"/>
+<ellipse cx="954" cy="247" rx="83" ry="123" fill="none" stroke="#FFE0EB" stroke-width="2"/>
+<g font-family="monospace" font-size="10" letter-spacing="1.2" fill="#F08DB1">
+  <text x="754" y="107">01 / DESIGN</text>
+  <text x="1050" y="398">02 / BUILD</text>
+  <text x="756" y="413">03 / ITERATE</text>
 </g>
-<path d="M38 435H1162" stroke="#701A3D" stroke-width="1"/>
+<path d="M38 464H1162" stroke="#8F244E" stroke-width="1"/>
 </svg>
